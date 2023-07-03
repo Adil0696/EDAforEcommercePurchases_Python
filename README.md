@@ -1,13 +1,22 @@
 # EDAforEcommercePurchases_Python
 
 This project contains Exploratory Data Analysis in Python for E-Commcerce Purchases based on the following guided questions:
+
 Display Top 10 Rows of The Dataset
+
 Check Last 10 Rows of The Dataset
+
 Check Datatype of Each Column
+
 Check null values in the dataset
+
+
 How many rows and columns are there in our Dataset?
+
 Highest and Lowest Purchase Prices.
+
 Average Purchase Price
+
 How many people have French 'fr' as their Language?
 Job Title Contains Engineer
 Find The Email of the person with the following IP Address: 132.207.160.22
